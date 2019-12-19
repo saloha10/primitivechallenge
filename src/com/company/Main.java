@@ -12,6 +12,6 @@ public class Main {
 
         System.out.println(longTotal);
 
-    String hello = "salah";
+
     }
 }
