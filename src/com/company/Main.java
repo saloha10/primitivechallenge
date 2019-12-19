@@ -8,9 +8,14 @@ public class Main {
         short shortValue = 20;
         int intValue = 50;
 
+        //10L gångras med 80 (byte, short, int)
         long longTotal = 50000L + 10L * (byteValue + shortValue + intValue);
 
         System.out.println(longTotal);
+
+
+        String[] namn {"Salah", "Sina"}
+        String[] namn = {"salah", "saloha", "sarah"};
 
 
     }
