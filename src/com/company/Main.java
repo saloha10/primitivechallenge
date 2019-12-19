@@ -13,7 +13,7 @@ public class Main {
 
         System.out.println(longTotal);
 
-ok
+        System.out.println("hello");
 
 
 
