@@ -13,9 +13,8 @@ public class Main {
 
         System.out.println(longTotal);
 
+ok
 
-        String[] namn {"Salah", "Sina"}
-        String[] namn = {"salah", "saloha", "sarah"};
 
 
     }
