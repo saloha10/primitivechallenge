@@ -11,5 +11,7 @@ public class Main {
         long longTotal = 50000L + 10L * (byteValue + shortValue + intValue);
 
         System.out.println(longTotal);
+
+    String hello = "salah";
     }
 }
